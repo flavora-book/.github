@@ -14,7 +14,7 @@ Flavora is a digital recipe book app designed to bring the art of cooking into t
 
 ## Get in Touch
 
-Hungry for more? Join our community of food enthusiasts and home chefs by downloading Flavora today. For support, feedback, or inquiries, please reach out to us at [support@flavora.com](mailto:support@flavora.com).
+Hungry for more? Join our community of food enthusiasts and home chefs by downloading Flavora today. For support, feedback, or inquiries, please reach out to us at [support@flavora-book.com](mailto:support@flavora-book.com).
 
 ## Stay Updated
 
